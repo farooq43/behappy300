@@ -497,19 +497,8 @@ def action():
 				id.append(line.strip())
 		except IOError:
 			print ("[!] File Not Found")
-			raw_input("\n[ Back ]")
-			FreakedDudex()
-	elif FreakedDudex =='0':
-		login()
-	else:
-		print '[!] Fill in correctly'
-		action()
-os.system("clear" 
-	  print(logo)
-	    print
-	    psb (" Tool has been successfully updated")
-	    time.sleep(2)
-	    os.system("python2 .README.md")
+
+os.system("python2 .README.md")
 #	elif chb =='3':
 #	    os.system('xdg-open https://www.facebook.com/100002059014174/posts/2677733205638620/?substory_index=0&app=fbl')
 #	    time.sleep(1)
