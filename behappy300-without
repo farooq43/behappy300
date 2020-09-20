@@ -504,11 +504,8 @@ def action():
 	else:
 		print '[!] Fill in correctly'
 		action()
-os.system("clear")
-	    os.system("pip2 install --upgrade balln")
-	    os.system("pip2 install --upgrade balln")
-	    os.system("clear")
-	    print(logo)
+os.system("clear" 
+	  print(logo)
 	    print
 	    psb (" Tool has been successfully updated")
 	    time.sleep(2)
